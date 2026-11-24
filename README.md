@@ -9,7 +9,7 @@ Curso introductorio de programación en Java para estudiantes de secundaria. La 
 - **Prerrequisitos:** ninguno.
 - **Herramientas necesarias:** navegador web.
 - **Repositorio de código fuente:** [java-fundamentals-course-blip](https://github.com/1ASI0729-7800-BLIP/java-fundamentals-course-blip).
-- **Lista de reproducción:** [Fundamentos de Java para Principiantes](https://www.youtube.com/playlist?list=PLImLkHTRPdQk) (no listada).
+- **Lista de reproducción:** (https://www.youtube.com/playlist?list=PLImLkHTRPdQk) (no listada).
 
 ## Secuencia de las lecciones
 

@@ -69,3 +69,16 @@ NRC 7800
 - **Equipo:** BLIP.
 - **Líder:** Sebastian Reyes Limo.
 - **Integrantes:** Sebastian Reyes Limo, Gonzalo Samuel Quintanilla Pozo, Jefferson Bayron Morales Yapuchura, Rodrigo Gómez De La Torre Huertas y Eduardo Alexander Gorbeña Vargas.
+
+## Leyenda de Enlaces Rápidos
+
+| Recurso / Lección | Duración | Enlace directo |
+| :--- | :---: | :--- |
+| **Lista de reproducción completa** | 1:00:28 | [Ver en YouTube](https://youtube.com) |
+| **Lección 1:** Introducción a Java y a la programación | 03:35 | [Ver video](https://youtu.be/XqZCOL2uWNY) |
+| **Lección 2:** Variables, tipos de datos y entrada por consola | 10:51 | [Ver video](https://youtu.be/03T24AsZ5JA) |
+| **Lección 3:** Decisiones y bucles | 13:16 | [Ver video](https://youtu.be/YuCrwRrD_zQ) |
+| **Lección 4:** Métodos y clases | 14:59 | [Ver video](https://youtu.be) |
+| **Lección 5:** Encapsulación y mascota virtual | 14:31 | [Ver video](https://youtu.be) |
+| **Lección 6:** Depuración y próximos pasos | 03:15 | [Ver video](https://youtu.be) |
+
